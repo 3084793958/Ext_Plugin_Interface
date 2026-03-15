@@ -40,5 +40,5 @@ signals:
 };
 ```
 
-### 为什么在pluginproxyinterface.h中添加定义?
+### 为什么不在pluginproxyinterface.h中添加定义?
 若新版本插件被旧版本Easy_Desktop载入,并且插件调用新的pluginproxyinterface.h中的功能,Easy_Desktop会崩溃
