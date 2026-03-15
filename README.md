@@ -1,0 +1,2 @@
+# Ext_Plugin_Interface
+适用于Easy_Desktop插件的接口,修改自dde-dock插件接口,增加了一些接口用于与Easy_Desktop交互.License:LGPL3.0
